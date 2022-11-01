@@ -7,7 +7,6 @@ The purpose of this Analysis was to take several data sets and import them into 
 #### * A total of 1,549 employees are eligible to mentorship, spread across the different departments
 #### * A total of 9,285 Engineers are elibile to retire
 ![Retiring](https://user-images.githubusercontent.com/111463407/199142693-7d363402-77dd-44d9-a00b-c5040e4f1c91.png)
-
 ## Summary
 #### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
  - A total of 72,458 roles will need to be filled
